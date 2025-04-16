@@ -1,0 +1,27 @@
+body {
+    background-color: #2b2a2a;
+    color: rgb(255, 255, 255);
+}
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #cfff5e;
+}
+a {
+    color: #cfff5e;
+    text-decoration: none;
+}
+
+img {
+    width: 50%;
+    border-radius: 15px;
+    display: block; 
+    margin: 30px auto;
+}
+
+h4 {
+    color: #6663fd;
+}
